@@ -167,7 +167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f597db05b4e95b64f97016c6a6806c0c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  filename: /test.d2m
+  filename: /run.d2m
   rawImage: {fileID: 1664580891}
 --- !u!1 &423256786
 GameObject:
