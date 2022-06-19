@@ -1,5 +1,5 @@
 # DDS2Movie-Player
-DDS Sheet animation optimizer.
+DDS sheet animation optimizer.
 Free, Light, Realtime
 
 # Performance
