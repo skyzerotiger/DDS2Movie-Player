@@ -1,4 +1,8 @@
 # DDS2Movie-Player
+
+![](https://github.com/skyzerotiger/DDS2Movie-Player/blob/main/preview/dds_preview.png)
+![](https://github.com/skyzerotiger/DDS2Movie-Player/blob/main/preview/d2m_preview.gif)
+
 DDS sheet animation optimizer.
 Free, Light, Realtime
 
